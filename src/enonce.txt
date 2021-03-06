@@ -1,0 +1,9 @@
+Ce programme propose la gestion du temps à l'aide d'un timer.
+Ici, le disque est attiré par le sol suivant une force d'attraction de la pesanteur.
+La mise à jour est réalisée toute les 30ms.
+
+Ce type d'approche permet d'interagir avec une scène.
+
+Lorsque l'on clique avec la souris, la simulation s'arrête et il est possible de déplacer l'objet et de lui donner une vitesse initiale.
+
+-> Mettez en place la gestion des rebonds avec les bords du mur.
